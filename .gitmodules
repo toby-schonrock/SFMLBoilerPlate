@@ -1,0 +1,14 @@
+[submodule "ext/SFML"]
+	path = ext/SFML
+	url = https://github.com/SFML/SFML.git
+	ignore = untracked
+[submodule "ext/imgui-sfml"]
+	path = ext/imgui-sfml
+	url = https://github.com/eliasdaler/imgui-sfml.git
+	ignore = untracked
+[submodule "ext/imgui"]
+	path = ext/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "ext/implot"]
+	path = ext/implot
+	url = https://github.com/epezent/implot.git
